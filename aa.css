@@ -1,0 +1,112 @@
+.container{
+    height:50%;
+    background-color:#fff;
+}
+
+.row{
+    height:50%;
+}
+a{
+    text-decoration: none;
+    line-height:40px;
+}
+.a{
+    border-style:solid;
+   
+    border-color:white;
+    border-radius: 4%;
+    box-shadow:0 4px 16px  rgb(0 0 0 / 10%), 0 4px 16px rgb(0 0 0 / 10%);
+   ;
+
+}
+
+
+
+
+.text{
+    position: relative;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    left:3%;
+    font-size:200%;
+   
+    
+}
+.form{
+    background-color:azure;
+}
+image{
+    position: relative;
+    left:5%;
+
+}
+.zz{
+    height:80%;
+    padding-top:3%
+}
+
+
+
+
+.form-control{
+    height:15%;
+}
+
+.z{
+    
+    font-size:80%;
+    text-align: center;
+    margin-top:75%;
+}
+@media(min-width:992px){
+    .a{
+        border-style:solid;
+       
+        border-color:white;
+        border-radius: 4%;
+        
+        margin-left:-15%;
+    
+    }
+    .text{
+        position: relative;
+        font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+        left:3%;
+        font-size:200%;
+        max-width: 65%;
+        
+    }
+    
+    
+    .btn{
+        
+        padding:1%;
+        width:100%;
+        font-size: 180%;
+        
+    }
+    .btn2{
+        
+        width:70%;
+    }
+    .z{
+        margin-top:20%;
+        font-size: 95%;
+        max-width: 85%;
+        text-align: justify;
+        position:relative;
+        left:10%;
+        
+        
+
+
+
+        color:rgb(74, 74, 74);
+    }
+    
+    
+}
+#a {
+    max-width: 80%;
+    font-size: 90%;
+
+}
